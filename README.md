@@ -126,4 +126,3 @@ Visit **[E-liss AI](https://e-liss.net/)** for more information and to join our 
 
 --- 
 
-This adapted content keeps the focus on E-liss AI as a trading assistant while embedding examples to demonstrate its functionality. E-liss
